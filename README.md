@@ -1,0 +1,1 @@
+This is a final project that I have carried out during my Natural Language Processing class. I am very grateful to my teacher for guiding and supporting me throughout the course. Here is the link to my teacher's Google Scholar page: [PHAM Tien-Lam](https://scholar.google.com.vn/citations?user=TFP4OXcAAAAJ&hl=vi)
